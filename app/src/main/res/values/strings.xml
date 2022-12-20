@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">V_Tic-Tac-Toe</string>
+    <string name="welcome">Play Tic-Tac-Toe</string>
+    <string name="grid">This is the table of nine cell</string>
+    <string name="o">this is symbol "0"</string>
+    <string name="x">this is symbol "X"</string>
+    <string name="p1">Player 1("X") Wins:</string>
+    <string name="p2">Player 2("0") Wins:</string>
+</resources>
